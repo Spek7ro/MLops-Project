@@ -4,4 +4,4 @@ Welcome to the Insurance Cross-Selling Prediction project! The goal of this proj
 
 ## Diagram
 Architecture diagram.
-![Image]()
+![Image](docs/mlops-project.png)
