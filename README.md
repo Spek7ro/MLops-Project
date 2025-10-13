@@ -15,7 +15,7 @@ Clone the project repository from GitHub:
 git clone https://github.com/Spek7ro/MLops-Project.git
 ```
 ```bash
-cd ml-project
+cd MLops-Project
 ```
 
 #### 2. Set Up the Environment
