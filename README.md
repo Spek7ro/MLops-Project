@@ -14,3 +14,32 @@ Clone the project repository from GitHub:
 ```bash
 git clone https://github.com/Spek7ro/MLops-Project.git
 ```
+```bash
+cd ml-project
+```
+
+#### 2. Set Up the Environment
+Ensure you have Python 3.9+ installed. Create a virtual environment and install the necessary dependencies:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+Alternatively, you can use the Makefile command:
+```bash
+make setup
+```
+#### 3. Data Preparation
+Pull the data from DVC. If this command doesn't work, the train and test data are already present in the data folder:
+```bash
+dvc pull
+```
+
+#### 4. Train the Model
+To train the model, run the following command:
+
+```bash
+
+```
+
+ 
